@@ -57,8 +57,8 @@
 # BUG-004
 - Esse bug foi encontrado com base em testes exploratórios
 - Descrição detalhada
-    - Ao editar os dados do usuário, colocando uma data inválida e deslogar o sistema volta para a tela de Pós Cadastro;
-    - Além disso, a descrição da foto é apagada
+    - Ao editar os dados do usuário, colocando uma data inválida e deslogar, o sistema volta para a tela de Pós Cadastro;
+    - Além disso, a descrição da foto é apagada, mesmo após recarregar a página, continua apagada
     
 - Passos para reprodução
     1) Estar na página de informações pessoais;

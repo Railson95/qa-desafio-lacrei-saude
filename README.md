@@ -71,4 +71,4 @@ Desafio técnico para vaga de voluntariado em QA para a ONG Lacrei Saúde
 - Faça os testes do arquivo cenario_desktop
 
 ## Para o exercício 6
-- A pasta exercicio 6 contém todos os bugs encontrados e os passos para reprodução;
+- A pasta exercicio 6 contém todos os bugs encontrados e os passos para reprodução e as evidências;
