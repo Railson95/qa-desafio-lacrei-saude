@@ -1,9 +1,20 @@
 # qa-desafio-lacrei-saude
 Desafio técnico para vaga de voluntariado em QA para a ONG Lacrei Saúde
 
-# Para os exercícios 1 e 2
+## 📚 Sumário
 
-# Como configurar o ambiente de testes manual
+- [Para os exercícios 1 e 2](#para-os-exercícios-1-e-2)
+  - [Como configurar o ambiente de testes manual](#como-configurar-o-ambiente-de-testes-manual)
+  - [Como executar os casos de teste](#como-executar-os-casos-de-teste)
+- [Para o exercício 5](#para-o-exercício-5)
+  - [Como configurar o ambiente de teste manual](#como-configurar-o-ambiente-de-teste-manual)
+- [Para o exercício 6](#para-o-exercício-6)
+
+---
+
+## Para os exercícios 1 e 2
+
+### Como configurar o ambiente de testes manual
 - Baixar e instalar o VSCode
 - Fazer o clone do repositorio
 - Instalar as seguintes extensões para Gherkin
@@ -15,7 +26,7 @@ Desafio técnico para vaga de voluntariado em QA para a ONG Lacrei Saúde
 - Casos de teste revisados e compreendidos
 - Tempo estimado para execução 10 horas
 
-# Como executar os casos de teste
+### Como executar os casos de teste
 - 1° conjunto de testes a serem feitos estão na pasta: cadastro_pessoa_usuaria
     - subpasta pre_cadastro, seguir a ordem dos arquivos: 
         - 001_tela_cadastro.feature
@@ -50,17 +61,14 @@ Desafio técnico para vaga de voluntariado em QA para a ONG Lacrei Saúde
 # Obs: Devido a falta de tempo para entregar o desafio, alguns arquivos podem estar em branco. 
 # No entanto, todos os testes considerados com alta severidade foram criados
 
+## Para o exercício 5
 
-# Para o exercício 5
-
-# Como configurar o ambiente de testes manual
+### Como configurar o ambiente de teste manual
 - No navegador Google Chrome, pressionar as teclas, no Windows, CTRL + SHIFT + I
 - Ao abrir ferramentas do desenvolvedor, pressionar, no Windows, CTRL + SHIFT + M, para alterar para o modo Mobile
 - Faça os testes do arquivo cenario_celular
 - Altere para o modo desktop, pressionando, no Windows, CTRL + SHIFT + M
 - Faça os testes do arquivo cenario_desktop
 
-# Para o exercício 6
+## Para o exercício 6
 - A pasta exercicio 6 contém todos os bugs encontrados e os passos para reprodução;
-- 
-
