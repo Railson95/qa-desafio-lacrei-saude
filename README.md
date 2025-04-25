@@ -1,12 +1,19 @@
 # qa-desafio-lacrei-saude
 Desafio técnico para vaga de voluntariado em QA para a ONG Lacrei Saúde
 
+# Para os exercícios 1 e 2
+
 # Como configurar o ambiente de testes manual
 - Baixar e instalar o VSCode
 - Fazer o clone do repositorio
 - Instalar as seguintes extensões para Gherkin
     - Snippets and Syntax Highlight for Gherkin (Cucumber)
     - Gherkin Indent
+- navegador Google Chrome 135.0.7049.115 (Versão oficial) 64 bits
+- gravador de tela e software de captura Screenpresso
+- Conexão estável com a internet
+- Casos de teste revisados e compreendidos
+- Tempo estimado para execução 10 horas
 
 # Como executar os casos de teste
 - 1° conjunto de testes a serem feitos estão na pasta: cadastro_pessoa_usuaria
