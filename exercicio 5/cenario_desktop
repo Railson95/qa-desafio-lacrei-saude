@@ -1,0 +1,28 @@
+Cenário 2 – Dispositivo Desktop
+Objetivo: Validar a exibição e a funcionalidade do fluxo de recuperação de senha em uma tela grande.
+
+Pré-condição: O usuário está na tela de login em um navegador desktop (resolução padrão, ex: 1366x768).
+
+Passos:
+
+Abrir a aplicação em um navegador de desktop.
+
+Verificar se o link “Esqueci minha senha” está visível e alinhado corretamente (geralmente abaixo do botão de login).
+
+Clicar no link e confirmar o redirecionamento para a página de Redefinição de Senha.
+
+Validar a disposição dos elementos (campo de e-mail e botão “Enviar link”).
+
+Inserir um e-mail válido e clicar em “Enviar link”.
+
+Verificar se ocorre o redirecionamento correto para a página de Verificar E-mail.
+
+Critérios de aceitação:
+
+Layout responsivo e sem quebras.
+
+Elementos bem distribuídos e centralizados.
+
+Feedback visual adequado ao clicar em botões.
+
+Confirmação de redirecionamento e validação do e-mail.

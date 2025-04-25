@@ -1,0 +1,23 @@
+Cenário 1 – Dispositivo Móvel (Smartphone)
+Objetivo: Verificar o comportamento da funcionalidade "Esqueci minha senha" em telas pequenas.
+Pré-condição: O usuário estar na tela de Redefinição de Senha, utilizando um smartphone (por exemplo, 360x640 px).
+
+Passos:
+
+Verificar o layout da página: o campo para inserir e-mail deve estar visível sem necessidade de rolagem horizontal.
+
+Inserir um e-mail válido e clicar no botão “Enviar link”.
+
+Confirmar se o usuário é redirecionado corretamente para a página de Verificar E-mail.
+
+Critérios de aceitação:
+
+Todos os elementos devem estar acessíveis e bem posicionados.
+
+Nenhum conteúdo deve ser cortado ou sobreposto.
+
+A navegação deve ser fluida e o redirecionamento sem falhas.
+
+Botões devem ser de fácil toque (mínimo 48x48 px).
+
+Fonte legível e campo de entrada funcional no teclado móvel.

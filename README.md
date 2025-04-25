@@ -49,3 +49,14 @@ Desafio técnico para vaga de voluntariado em QA para a ONG Lacrei Saúde
 
 # Obs: Devido a falta de tempo para entregar o desafio, alguns arquivos podem estar em branco. 
 # No entanto, todos os testes considerados com alta severidade foram criados
+
+
+# Para o exercício 5
+
+# Como configurar o ambiente de testes manual
+- No navegador Google Chrome, pressionar as teclas, no Windows, CTRL + SHIFT + I
+- Ao abrir ferramentas do desenvolvedor, pressionar, no Windows, CTRL + SHIFT + M, para alterar para o modo Mobile
+- Faça os testes do arquivo cenario_celular
+- Altere para o modo desktop, pressionando, no Windows, CTRL + SHIFT + M
+- Faça os testes do arquivo cenario_desktop
+
