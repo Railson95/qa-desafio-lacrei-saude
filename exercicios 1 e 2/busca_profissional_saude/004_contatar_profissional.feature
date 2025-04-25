@@ -17,8 +17,9 @@ Feature: Contatar profissional
         | ID  | telefone         | mensagem                                                                                     |
         | 001 | 11999999999      | um código de validação deve ser enviado via SMS                                              |
         | 002 | 11999999998      | deve ser exibida a mensagem com link: "Inseriu um número errado? Corrigir número de celular" |
-        | 003 | abc123           | uma mensagem de erro deve ser exibida                                                        |
-        | 004 | (vazio)          | uma mensagem de erro deve ser exibida                                                        |
+        | 003 | 123123           | as bordas do campo devem ser coloridas de vermelho                                           |
+        | 004 | (vazio)          | as bordas do campo devem ser coloridas de vermelho                                           |
+        | 005 | 35899989898      | uma mensagem de erro deve ser exibida                                                        |
 
     Scenario Outline: [CT-024] Inserir código de validação após envio de SMS
         When preencher o campo de número de telefone com "<telefone>" válido

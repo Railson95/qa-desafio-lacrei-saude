@@ -66,7 +66,7 @@ Feature: Alteração de senha
 
     Scenario: [CT-035] Inserir senha atual incorreta
         When o paciente inserir uma senha incorreta "SenhaErrada123" no campo "Senha atual"
-        Then o sistema deve alertar o paciente com a mensagem de erro "Senha incorreta" e redirecioná-lo para a tela de Login
+        Then o sistema deve alertar o paciente com a mensagem de erro "Senha incorreta"
 
     Scenario: [CT-036] Campos de senha em branco
         When o paciente clicar no botão "Salvar senha" com algum dos 3 campos de senha em branco
