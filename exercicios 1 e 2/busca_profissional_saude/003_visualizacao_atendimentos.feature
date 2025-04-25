@@ -7,10 +7,10 @@ Feature: Visualização de antendimentos
         Given que o paciente se encontre na Tela de Perfil do profissional
         When selecionar a aba de Atendimentos 
         
-    Scenario: Verificar os tipos de atendimento que um profissional realiza
+    Scenario: [CT-021] Verificar os tipos de atendimento que um profissional realiza
         Then uma lista de cards com os tipos de atendimento que aquele profissional realiza, 
         por exemplo, Presencial e Teleconsulta deve ser exibida
     
-    Scenario: Verificar redirecionamento para a tela de Contatar Profissional
+    Scenario: [CT-022] Verificar redirecionamento para a tela de Contatar Profissional
         And selecionar o botão "Exibir Contato" 
         Then o paciente deve ser redirecionado para a tela de Contatar Profissional
