@@ -9,6 +9,7 @@ Desafio técnico para vaga de voluntariado em QA para a ONG Lacrei Saúde
 - [Para o exercício 5](#para-o-exercício-5)
   - [Como configurar o ambiente de teste manual](#como-configurar-o-ambiente-de-teste-manual)
 - [Para o exercício 6](#para-o-exercício-6)
+- [Para o exercício 7](#para-o-exercício-7)
 
 ---
 
@@ -76,10 +77,10 @@ Desafio técnico para vaga de voluntariado em QA para a ONG Lacrei Saúde
 ## Para o exercício 7
 - Os testes automatizados da funcionalidade de Cadastro foram feitos apenas usando Cypress
 - Para a execução dos testes automatizados é necessário instalar o Cypress e o Node nas versões:
-    Cypress package version: 13.13.3
-    Cypress binary version: 13.13.3
-    Electron version: 27.3.10
-    Bundled Node version:
-    18.17.1
+    - Cypress package version: 13.13.3
+    - Cypress binary version: 13.13.3
+    - Electron version: 27.3.10
+    - Bundled Node version:
+    - 18.17.1
 - A bibliteca faker-js/faker, também deve ser instalada, para geração de e-mails válidos aleatórios
-    Use o comando para instalar: npm install @faker-js/faker
+    - Use o comando para instalar: npm install @faker-js/faker

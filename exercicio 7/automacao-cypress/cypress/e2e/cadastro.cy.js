@@ -1,7 +1,7 @@
 import { faker } from '@faker-js/faker';
 
 
-describe('Cypress Playground', () => {
+describe('Cadastro de paciente', () => {
   beforeEach(() => {
     cy.visit('https://paciente-staging.lacreisaude.com.br/cadastro/')
   }) 
